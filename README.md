@@ -1,2 +1,2 @@
 # blowfish-verification
-369 domino.run
+3269 domino.run
